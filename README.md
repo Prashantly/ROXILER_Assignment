@@ -47,7 +47,7 @@
 
 ### Screen Shots
 
-![pic4](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/595fc21b-f9bc-4b4e-a653-114608e80c9e)
-![pic3](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/a6b36f57-2b5f-485e-b55b-ebf1a69f7531)
-![PIc2](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/7d049915-1685-4af5-bf0c-bdb3b6b2e1fc)
 ![pic1](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/3ee077a0-3ca4-470f-aea6-32a709c18cae)
+![PIc2](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/7d049915-1685-4af5-bf0c-bdb3b6b2e1fc)
+![pic3](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/a6b36f57-2b5f-485e-b55b-ebf1a69f7531)
+![pic4](https://github.com/Prashantly/ROXILER_Assignment/assets/99544800/595fc21b-f9bc-4b4e-a653-114608e80c9e)
